@@ -3,8 +3,8 @@ Application stack with Terraform
 
 ## Usage
 ```
-$terraform init
-$terraform get
+$ terraform init
+$ terraform get
 $ terraform plan
 $ terraform apply
 ```
